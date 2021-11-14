@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>replit</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+
+    <style>
+      .nav {
+        height: 70px;
+        border-bottom: 3px solid black;
+        display: flex;
+        align-items: center;
+      }
+   
+
+    .nav-right-items{
+      display: flex;
+      margin-left: auto;
+    }
+    .student-nickname{
+      margin-left: 20px;
+      font-size: 60px;
+      font-weight: bold;
+    }
+
+    .title{
+      text-align: center;
+      font-size: 60px;
+      font-weight: bold;
+    }
+
+
+  .main{
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 60px;
+  }
+
+.
+  .content{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 300;
+  }
+
+
+   </style>
+  </head>
+  <body>
+    <div class="nav">
+        <div class="student-nickname">
+      Molamola
+       </div>
+    <div class="nav-right-items">
+      <a href="https://youtu.be/hUWsTYe26L0" target="_blank">  Don't click&nbsp;&nbsp;  </a>
+      <a href="https://youtu.be/WQO-aOdJLiw" target="_blank">  Don't click&nbsp;&nbsp;  </a>
+      <a href="https://youtu.be/LACbVhgtx9I" target="_blank">  Don't click&nbsp;&nbsp;  </a>
+    </div>
+  </div>
+  
+  <div class="main">
+  <div class="title>"
+    201710894김대훈
+      </div>
+      <div class="Content">
+        <img src = "https://i.imgur.com/BXA09Dj.jpg"/>
+      가만보면 군대가 가장 좋았던시절이 아닐까 조금은 암울해 하는 4년휴학하고 올해 복학한 컴퓨터과학과201710894김대훈입니다. 
+      <b>여친한테도 차이고 과제한테도 차여가며</b> 살아가지만 과제라도 안하면 아무것도 늘지 않을것을 알기에 묵묵히 하려고 합니다. 갑자기 시간표 퀄리티는 조악해지는데, 이는 나머지 항목을 유튜브 돌아다니면서 보고 만들었지만, 시간표는 그저 강의만 보고 충실히 배꼈기 때문입니다. 시정하겠습니다.
+
+
+      이 학생의 시간표는 아래와 같습니다. <em>죄송합니다 교수님.</em>
+      많고 많은 김대훈이라는 과제노예의 주인님
+      <ul>
+           <li>HTML&CSS(공학설계입문)</li>
+           <li>성격심리와 자기이해 레포트</li>
+           <li>수학을 가뜩이나 못하는데 과제양도 많은 선형대수학</li>
+           <li>내가 포인터인지 포인터가 나인지 모르겠는 C언어</li>
+           <li>이건 그나마 할만한 과학기술과 환경 레포트</li>
+           <li>개인프로젝트 하겠답시고 전여친을위하 만들다가 창의력고갈된 영문판 한국어 문법서</li>
+
+       </ul>
+
+
+      </div>
+      </div>
+
+      <table border="1">
+        <tr>
+          <th>요일</th>
+          <th>월</th>
+          <th>화</th>
+          <th>수</th>
+          <th>목</th>
+          <th>금</th>
+          <th>토</th>
+          <th>일</th>
+        </tr>
+
+        <tr>
+          <th> 9시-10시 </th>
+          <th>  </th>
+          <th>  </th>
+          <th>질병과 문명</th>
+          <th>  </th>
+          <th>  </th>
+          <th>  </th>
+          <th>  </th>
+        </tr>
+        <tr>
+          <th> 10시-11시 </th>
+          <th>  </th>
+          <th>  </th>
+          <th>질병과 문명</th>
+          <th></th>
+          <th>  </th>
+          <th>  </th>
+          <th>  </th>
+        </tr>
+
+      <tr>
+          <th> 12시-1시 </th>
+          <th>  </th>
+          <th>  </th>
+          <th>성격심리학& 자기이해</th>
+          <th>과학기술과 환경</th>
+          <th>  </th>
+          <th>  </th>
+          <th>  </th>
+        </tr>
+<tr>
+          <th> 1시-2시 </th>
+          <th>  </th>
+          <th>과학기술과 환경</th>
+          <th>성격심리학& 자기이해</th>
+          <th>과학기술과 환경</th>
+          <th>  </th>
+          <th>  </th>
+          <th>  </th>
+        </tr>
+
+<tr>
+          <th> 2시-3시 </th>
+          <th>  </th>
+          <th>선형대수학1</th>
+          <th>성격심리학& 자기이해</th>
+          <th>선형대수학1</th>
+          <th>  </th>
+          <th>  </th>
+          <th>  </th>
+        </tr>
+
+
+<tr>
+          <th> 3시-4시 </th>
+          <th>공학설계 입문</th>
+          <th>C프로그래밍</th>
+          <th> </th>
+          <th>선형대수학1</th>
+          <th>  </th>
+          <th>  </th>
+          <th>  </th>
+        </tr>
+
+<tr>
+          <th> 4시-5시 </th>
+          <th>공학설계 입문</th>
+          <th>C프로그래밍</th>
+          <th> </th>
+          <th></th>
+          <th>  </th>
+          <th>  </th>
+          <th>  </th>
+        </tr>
+
+<tr>
+          <th> 5시-6시 </th>
+          <th>공학설계 입문</th>
+          <th>C프로그래밍</th>
+          <th>  </th>
+          <th></th>
+          <th>  </th>
+          <th>  </th>
+          <th>  </th>
+        </tr>
+ <tr>
+          <th> 6시-7시 </th>
+          <th>  </th>
+          <th>C프로그래밍</th>
+          <th>  </th>
+          <th></th>
+          <th>  </th>
+          <th>  </th>
+          <th>  </th>
+        </tr>
+
+
+
+
+
+
+
+
+
+      </div>
+</html>
